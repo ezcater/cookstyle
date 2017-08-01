@@ -64,7 +64,7 @@ Style/ConstantName:
   Enabled: true
 Style/DefWithParentheses:
   Enabled: true
-Style/DeprecatedHashMethods:
+Style/PreferredHashMethods:
   Enabled: true
 Style/Documentation:
   Enabled: true
@@ -148,7 +148,7 @@ Layout/LeadingCommentSpace:
   Enabled: true
 Style/LineEndConcatenation:
   Enabled: true
-Style/MethodCallParentheses:
+Style/MethodCallWithoutArgsParentheses:
   Enabled: true
 Style/MethodDefParentheses:
   Enabled: true
