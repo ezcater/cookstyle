@@ -63,7 +63,7 @@ AllCops:
   # option.
   DisplayCopNames: false
   # Style guide URLs are not displayed in offense messages by default. Change
-  # behavior by overriding `DisplayStyleGuide`, or by giving the
+  # behavior by overriding `DisplayStyleGuide`, cr by giving the
   # `-S/--display-style-guide` option.
   DisplayStyleGuide: false
   # When specifying style guide URLs, any paths and/or fragments will be
@@ -1157,7 +1157,7 @@ Style/StringLiterals:
   ConsistentQuotesInMultiline: false
 
 Style/StringLiteralsInInterpolation:
-  EnforcedStyle: single_quotes
+  EnforcedStyle: double_quotes
   SupportedStyles:
     - single_quotes
     - double_quotes
